@@ -282,7 +282,7 @@ while True:
 
 
 
-    while schet <= 43:  # Предположим, у вас всего 100 аккаунтов
+    while schet <= 100:  # Предположим, у вас всего 100 аккаунтов
         a = list1['C'][schet].value  # тут адреса
         b = list1['B'][schet].value
 
@@ -310,7 +310,7 @@ while True:
     for t in threads:
         t.join()
 
-    if schet >= 43:  # Например, если reached 100 accounts
+    if schet >= 100:  # Например, если reached 100 accounts
         # # Открываем файл и считываем его содержимое
         # with open('url_konkurs', 'r') as file:
         #     links = file.readlines()
