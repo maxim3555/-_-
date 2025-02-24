@@ -1,0 +1,13 @@
+{"timestamp":0,"category":"session_restore","name":"backup_can_be_loaded_session_file","extra":{"can_load":"true","loadfail_reason":"N/A","glean_timestamp":"1739858561910","path_key":"clean"}}
+{"timestamp":0,"category":"session_restore","name":"backup_can_be_loaded_session_file","extra":{"path_key":"clean","can_load":"true","loadfail_reason":"N/A","glean_timestamp":"1739858561911"}}
+{"timestamp":0,"category":"session_restore","name":"shutdown_success_session_startup","extra":{"glean_timestamp":"1739858561911","shutdown_ok":"false","shutdown_reason":"N/A"}}
+{"timestamp":257,"category":"webcompatreporting","name":"reason_dropdown","extra":{"setting":"required","glean_timestamp":"1739858562168"}}
+{"timestamp":418,"category":"jsonfile","name":"load_autofillprofiles","extra":{"glean_timestamp":"1739858562329","value":""}}
+{"timestamp":548,"category":"doh","name":"state_enabled","extra":{"value":"null","glean_timestamp":"1739858562459"}}
+{"timestamp":548,"category":"doh","name":"evaluate_v2_heuristics","extra":{"enterprise":"","glean_timestamp":"1739858562459","value":"enable_doh","steeredProvider":"","filtering":"","captiveState":"not_captive","evaluateReason":"startup","platform":"","networkID":"icPQC/1Teoa1HNjRhAIytQ+Ke9byZCkiS+QENYwBeJ0=","canaries":""}}
+{"timestamp":582,"category":"normandy","name":"validation_failed_nimbus_experiment","extra":{"reason":"invalid-feature","feature":"addAnImageInPDF","glean_timestamp":"1739858562493","value":"add-an-image-to-pdf-with-alt-text-rollout"}}
+{"timestamp":582,"category":"nimbus_events","name":"validation_failed","extra":{"reason":"invalid-feature","feature":"addAnImageInPDF","experiment":"add-an-image-to-pdf-with-alt-text-rollout","glean_timestamp":"1739858562493"}}
+{"timestamp":582,"category":"nimbus_events","name":"is_ready","extra":{"glean_timestamp":"1739858562493"}}
+{"timestamp":684,"category":"network.dns","name":"trr_confirmation_context","extra":{"time":"205.072900","results":"+","glean_timestamp":"1739858562595","attemptCount":"1","captivePortal":"1","value":"2","trigger":"pref-change","contextReason":"pref-change","networkID":"f85MtLykZ5WSfPOVn0vjaCnr/fM="}}
+{"timestamp":719,"category":"upgrade_dialog","name":"trigger_reason","extra":{"value":"not-major","glean_timestamp":"1739858562630"}}
+{"timestamp":4978,"category":"doh","name":"state_shutdown","extra":{"glean_timestamp":"1739858566889","value":"null"}}

@@ -1,0 +1,2 @@
+{"timestamp":60537,"category":"browser.usage","name":"interaction","extra":{"flow_id":"{57b22363-4b6f-4cc0-b2f2-6eb160da1ce9}","source":"content-context","glean_timestamp":"1738067644352","widget_id":"context-paste"},"execution_counter":6}
+{"timestamp":76377,"category":"browser.usage","name":"interaction","extra":{"glean_timestamp":"1738067660192","widget_id":"cmd-closeWindow","source":"tabs-bar","flow_id":"{57b22363-4b6f-4cc0-b2f2-6eb160da1ce9}"},"execution_counter":6}

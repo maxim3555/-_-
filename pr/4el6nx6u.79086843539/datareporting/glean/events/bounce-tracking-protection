@@ -1,0 +1,2 @@
+{"timestamp":18533199,"category":"bounce.tracking.protection","name":"purge_action","extra":{"site_host":"vk.ru","bounce_time":"1739689230","is_dry_run":"true","success":"true","glean_timestamp":"1739881624816"}}
+{"timestamp":1119,"category":"glean","name":"restarted","extra":{"glean.startup.date":"2025-02-19T07:39+03:00","glean_timestamp":"1739939968816"},"execution_counter":1}

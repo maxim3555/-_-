@@ -1,0 +1,3 @@
+{"timestamp":27206,"category":"browser.usage","name":"interaction","extra":{"source":"content-context","widget_id":"context-paste","glean_timestamp":"1738069959537","flow_id":"{a30f4f31-36f0-453e-b2cf-7b51a981d603}"},"execution_counter":14}
+{"timestamp":33650,"category":"browser.usage","name":"interaction","extra":{"flow_id":"{a30f4f31-36f0-453e-b2cf-7b51a981d603}","source":"content-context","glean_timestamp":"1738069965981","widget_id":"context-copy"},"execution_counter":14}
+{"timestamp":51695,"category":"browser.usage","name":"interaction","extra":{"flow_id":"{a30f4f31-36f0-453e-b2cf-7b51a981d603}","widget_id":"cmd-closeWindow","glean_timestamp":"1738069984026","source":"tabs-bar"},"execution_counter":14}

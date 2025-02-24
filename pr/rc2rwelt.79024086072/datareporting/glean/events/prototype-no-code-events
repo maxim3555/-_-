@@ -1,0 +1,5 @@
+{"timestamp":11793,"category":"browser.usage","name":"interaction","extra":{"glean_timestamp":"1738078222425","source":"nav-bar","widget_id":"text-action-paste","flow_id":"{f78dbca3-1f1a-4071-8995-7b6d74d55bc0}"},"execution_counter":13}
+{"timestamp":16565,"category":"browser.usage","name":"interaction","extra":{"widget_id":"urlbar-input","flow_id":"{f78dbca3-1f1a-4071-8995-7b6d74d55bc0}","source":"nav-bar","glean_timestamp":"1738078227197"},"execution_counter":13}
+{"timestamp":38566,"category":"browser.usage","name":"interaction","extra":{"flow_id":"{f78dbca3-1f1a-4071-8995-7b6d74d55bc0}","glean_timestamp":"1738078249198","widget_id":"urlbar-input","source":"nav-bar"},"execution_counter":13}
+{"timestamp":41954,"category":"browser.usage","name":"interaction","extra":{"flow_id":"{f78dbca3-1f1a-4071-8995-7b6d74d55bc0}","widget_id":"text-action-copy","source":"nav-bar","glean_timestamp":"1738078252586"},"execution_counter":13}
+{"timestamp":54070,"category":"browser.usage","name":"interaction","extra":{"source":"tabs-bar","widget_id":"cmd-minimizeWindow","flow_id":"{f78dbca3-1f1a-4071-8995-7b6d74d55bc0}","glean_timestamp":"1738078264702"},"execution_counter":13}

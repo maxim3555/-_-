@@ -1,0 +1,14 @@
+name: bot
+on:
+    push:
+
+jobs:
+    BOT:
+        runs-on: ubuntu-latest
+        steps:
+            - name: code
+              uses: actions/checkout@v4
+            - name: install requirements
+              run: pip install -r requirements.txt
+            - name: run app
+              run: python проход.py

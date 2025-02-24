@@ -1,0 +1,13 @@
+{"timestamp":3602009,"category":"bounce.tracking.protection","name":"purge_action","extra":{"glean_timestamp":"1735635874252","bounce_time":"1731417585","site_host":"vk.ru","success":"true","is_dry_run":"true"}}
+{"timestamp":810,"category":"glean","name":"restarted","extra":{"glean.startup.date":"2025-01-10T10:37+03:00","glean_timestamp":"1736494628501"},"execution_counter":1}
+{"timestamp":1226,"category":"glean","name":"restarted","extra":{"glean_timestamp":"1736967018052","glean.startup.date":"2025-01-15T21:50+03:00"},"execution_counter":2}
+{"timestamp":1348,"category":"glean","name":"restarted","extra":{"glean_timestamp":"1737036168634","glean.startup.date":"2025-01-16T17:02+03:00"},"execution_counter":3}
+{"timestamp":735,"category":"glean","name":"restarted","extra":{"glean.startup.date":"2025-01-22T17:43+03:00","glean_timestamp":"1737556995541"},"execution_counter":4}
+{"timestamp":1244,"category":"glean","name":"restarted","extra":{"glean.startup.date":"2025-01-28T15:20+03:00","glean_timestamp":"1738066803800"},"execution_counter":5}
+{"timestamp":713,"category":"glean","name":"restarted","extra":{"glean.startup.date":"2025-01-28T18:43+03:00","glean_timestamp":"1738079009412"},"execution_counter":6}
+{"timestamp":738,"category":"glean","name":"restarted","extra":{"glean.startup.date":"2025-01-28T20:19+03:00","glean_timestamp":"1738084757647"},"execution_counter":7}
+{"timestamp":1157,"category":"glean","name":"restarted","extra":{"glean_timestamp":"1739354828354","glean.startup.date":"2025-02-12T13:07+03:00"},"execution_counter":8}
+{"timestamp":1113,"category":"glean","name":"restarted","extra":{"glean_timestamp":"1739692857042","glean.startup.date":"2025-02-16T11:00+03:00"},"execution_counter":9}
+{"timestamp":746,"category":"glean","name":"restarted","extra":{"glean.startup.date":"2025-02-16T17:44+03:00","glean_timestamp":"1739717045216"},"execution_counter":10}
+{"timestamp":657,"category":"glean","name":"restarted","extra":{"glean_timestamp":"1739788162905","glean.startup.date":"2025-02-17T13:29+03:00"},"execution_counter":11}
+{"timestamp":692,"category":"glean","name":"restarted","extra":{"glean_timestamp":"1739856297671","glean.startup.date":"2025-02-18T08:24+03:00"},"execution_counter":12}

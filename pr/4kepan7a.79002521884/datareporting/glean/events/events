@@ -1,0 +1,15 @@
+{"timestamp":0,"category":"session_restore","name":"backup_can_be_loaded_session_file","extra":{"glean_timestamp":"1739858960960","can_load":"true","path_key":"clean","loadfail_reason":"N/A"}}
+{"timestamp":0,"category":"session_restore","name":"backup_can_be_loaded_session_file","extra":{"glean_timestamp":"1739858960960","path_key":"clean","loadfail_reason":"N/A","can_load":"true"}}
+{"timestamp":0,"category":"session_restore","name":"shutdown_success_session_startup","extra":{"shutdown_ok":"false","glean_timestamp":"1739858960960","shutdown_reason":"N/A"}}
+{"timestamp":256,"category":"webcompatreporting","name":"reason_dropdown","extra":{"glean_timestamp":"1739858961217","setting":"required"}}
+{"timestamp":354,"category":"jsonfile","name":"load_autofillprofiles","extra":{"value":"","glean_timestamp":"1739858961314"}}
+{"timestamp":485,"category":"doh","name":"state_enabled","extra":{"value":"null","glean_timestamp":"1739858961446"}}
+{"timestamp":485,"category":"doh","name":"evaluate_v2_heuristics","extra":{"value":"enable_doh","canaries":"","evaluateReason":"startup","filtering":"","steeredProvider":"","platform":"","networkID":"Wv2iEPhv9R+TzDikPL4oPeNifiukVCvqjDN2czs6OIw=","captiveState":"not_captive","enterprise":"","glean_timestamp":"1739858961446"}}
+{"timestamp":526,"category":"normandy","name":"validation_failed_nimbus_experiment","extra":{"value":"add-an-image-to-pdf-with-alt-text-rollout","glean_timestamp":"1739858961486","feature":"addAnImageInPDF","reason":"invalid-feature"}}
+{"timestamp":526,"category":"nimbus_events","name":"validation_failed","extra":{"experiment":"add-an-image-to-pdf-with-alt-text-rollout","reason":"invalid-feature","feature":"addAnImageInPDF","glean_timestamp":"1739858961486"}}
+{"timestamp":526,"category":"nimbus_events","name":"is_ready","extra":{"glean_timestamp":"1739858961486"}}
+{"timestamp":530,"category":"jsonfile","name":"load_logins","extra":{"value":"","glean_timestamp":"1739858961490"}}
+{"timestamp":533,"category":"network.dns","name":"trr_confirmation_context","extra":{"networkID":"h/697eMJPzOqD41xGavyH+21X9Y=","value":"2","trigger":"pref-change","time":"105.959100","captivePortal":"1","glean_timestamp":"1739858961494","contextReason":"pref-change","attemptCount":"1","results":"+"}}
+{"timestamp":538,"category":"upgrade_dialog","name":"trigger_reason","extra":{"value":"not-major","glean_timestamp":"1739858961498"}}
+{"timestamp":3698,"category":"urlbar","name":"engagement","extra":{"glean_timestamp":"1739858964659","search_mode":"","n_words":"1","results":"search_engine,history,history","n_results":"3","selected_result":"search_engine","engagement_type":"enter","selected_position":"1","actions":"none,none,none","interaction":"typed","provider":"HeuristicFallback","search_engine_default_id":"other-Яндекс","groups":"heuristic,general,general","n_chars":"2","sap":"urlbar_newtab"}}
+{"timestamp":11113,"category":"doh","name":"state_shutdown","extra":{"value":"null","glean_timestamp":"1739858972074"}}

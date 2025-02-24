@@ -1,0 +1,3 @@
+{"timestamp":10314,"category":"browser.usage","name":"interaction","extra":{"flow_id":"{799ba414-2d1d-472e-aad8-448690efc5a1}","widget_id":"tabs-newtab-button","glean_timestamp":"1738125093176","source":"tabs-bar"},"execution_counter":22}
+{"timestamp":31641,"category":"browser.usage","name":"interaction","extra":{"source":"tabs-bar","widget_id":"cmd-closeWindow","flow_id":"{799ba414-2d1d-472e-aad8-448690efc5a1}","glean_timestamp":"1738125114503"},"execution_counter":22}
+{"timestamp":547,"category":"glean","name":"restarted","extra":{"glean_timestamp":"1738173640579","glean.startup.date":"2025-01-29T21:00+03:00"},"execution_counter":23}

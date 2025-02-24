@@ -1,0 +1,1 @@
+{"timestamp":3355,"category":"perf","name":"page_load","extra":{"using_webdriver":"false","response_time":"286","lcp_time":"349","http_ver":"2","load_time":"1098","fcp_time":"355","load_type":"NORMAL","trr_domain":"mozilla.cloudflare-dns.com","time_to_request_start":"2","js_exec_time":"492","features":"0","glean_timestamp":"1739858222411"},"execution_counter":7}

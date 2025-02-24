@@ -1,0 +1,17 @@
+{"timestamp":0,"category":"session_restore","name":"backup_can_be_loaded_session_file","extra":{"loadfail_reason":"N/A","glean_timestamp":"1739955074646","path_key":"clean","can_load":"true"}}
+{"timestamp":0,"category":"session_restore","name":"backup_can_be_loaded_session_file","extra":{"glean_timestamp":"1739955074646","can_load":"true","path_key":"clean","loadfail_reason":"N/A"}}
+{"timestamp":0,"category":"session_restore","name":"shutdown_success_session_startup","extra":{"shutdown_reason":"N/A","glean_timestamp":"1739955074646","shutdown_ok":"false"}}
+{"timestamp":740,"category":"webcompatreporting","name":"reason_dropdown","extra":{"setting":"required","glean_timestamp":"1739955075386"}}
+{"timestamp":0,"category":"media.playback","name":"first_frame_loaded","extra":{"is_hardware_decoding":"true","buffering_time":"0","resolution":"V,0<h<=240","video_codec":"video/avc","first_frame_loaded_time":"50","glean_timestamp":"1739955075450","metadata_loaded_time":"0","total_waiting_data_time":"0","playback_type":"Non-MSE playback"}}
+{"timestamp":1078,"category":"normandy","name":"validation_failed_nimbus_experiment","extra":{"feature":"addAnImageInPDF","glean_timestamp":"1739955075724","reason":"invalid-feature","value":"add-an-image-to-pdf-with-alt-text-rollout"}}
+{"timestamp":1078,"category":"nimbus_events","name":"validation_failed","extra":{"glean_timestamp":"1739955075724","experiment":"add-an-image-to-pdf-with-alt-text-rollout","reason":"invalid-feature","feature":"addAnImageInPDF"}}
+{"timestamp":1078,"category":"nimbus_events","name":"is_ready","extra":{"glean_timestamp":"1739955075725"}}
+{"timestamp":1079,"category":"doh","name":"state_enabled","extra":{"value":"null","glean_timestamp":"1739955075726"}}
+{"timestamp":1079,"category":"doh","name":"evaluate_v2_heuristics","extra":{"platform":"","value":"enable_doh","captiveState":"not_captive","networkID":"IONe9fnB71iiUosI7HmiUpKb2EeTHWgwJz6HY7PGwBc=","canaries":"","steeredProvider":"","glean_timestamp":"1739955075726","evaluateReason":"startup","enterprise":"","filtering":""}}
+{"timestamp":1110,"category":"jsonfile","name":"load_logins","extra":{"value":"","glean_timestamp":"1739955075756"}}
+{"timestamp":1156,"category":"network.dns","name":"trr_confirmation_context","extra":{"trigger":"pref-change","results":"+","networkID":"Az/NbIdaA6NVk/OzlS169zWrPyw=","captivePortal":"1","value":"2","contextReason":"pref-change","time":"141.909500","attemptCount":"1","glean_timestamp":"1739955075803"}}
+{"timestamp":1199,"category":"upgrade_dialog","name":"trigger_reason","extra":{"glean_timestamp":"1739955075846","value":"disabled"}}
+{"timestamp":1315,"category":"addons_manager","name":"disable_extension","extra":{"value":"screenshots@mozilla.org","source":"system-addon","glean_timestamp":"1739955075961","blocklist_state":"0"}}
+{"timestamp":1315,"category":"addons_manager","name":"manage","extra":{"glean_timestamp":"1739955075961","method":"disable","addon_id":"screenshots@mozilla.org","source":"system-addon","addon_type":"extension","blocklist_state":"0"}}
+{"timestamp":0,"category":"media.playback","name":"first_frame_loaded","extra":{"metadata_loaded_time":"2","playback_type":"Non-MSE playback","total_waiting_data_time":"0","video_codec":"video/vp9","resolution":"V,0<h<=240","buffering_time":"0","first_frame_loaded_time":"5","glean_timestamp":"1739955083767"}}
+{"timestamp":9143,"category":"doh","name":"state_shutdown","extra":{"glean_timestamp":"1739955083790","value":"null"}}

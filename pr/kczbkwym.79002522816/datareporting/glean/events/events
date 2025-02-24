@@ -1,0 +1,12 @@
+{"timestamp":0,"category":"session_restore","name":"backup_can_be_loaded_session_file","extra":{"glean_timestamp":"1739858637825","path_key":"clean","loadfail_reason":"N/A","can_load":"true"}}
+{"timestamp":0,"category":"session_restore","name":"backup_can_be_loaded_session_file","extra":{"path_key":"clean","glean_timestamp":"1739858637825","loadfail_reason":"N/A","can_load":"true"}}
+{"timestamp":0,"category":"session_restore","name":"shutdown_success_session_startup","extra":{"shutdown_reason":"N/A","glean_timestamp":"1739858637825","shutdown_ok":"false"}}
+{"timestamp":266,"category":"webcompatreporting","name":"reason_dropdown","extra":{"glean_timestamp":"1739858638091","setting":"required"}}
+{"timestamp":583,"category":"doh","name":"state_enabled","extra":{"value":"null","glean_timestamp":"1739858638408"}}
+{"timestamp":583,"category":"doh","name":"evaluate_v2_heuristics","extra":{"canaries":"","filtering":"","steeredProvider":"","networkID":"pLaBSemp7UZhCXEhNO5VuZeBGm+NbaXiuvrTtf/MVUY=","value":"enable_doh","evaluateReason":"startup","glean_timestamp":"1739858638408","platform":"","enterprise":"","captiveState":"not_captive"}}
+{"timestamp":624,"category":"network.dns","name":"trr_confirmation_context","extra":{"time":"114.774900","glean_timestamp":"1739858638449","networkID":"DsypWY18nb1cXehhG74gygqhrJM=","attemptCount":"1","value":"2","contextReason":"pref-change","captivePortal":"1","results":"+","trigger":"pref-change"}}
+{"timestamp":649,"category":"normandy","name":"validation_failed_nimbus_experiment","extra":{"feature":"addAnImageInPDF","value":"add-an-image-to-pdf-with-alt-text-rollout","reason":"invalid-feature","glean_timestamp":"1739858638474"}}
+{"timestamp":649,"category":"nimbus_events","name":"validation_failed","extra":{"experiment":"add-an-image-to-pdf-with-alt-text-rollout","feature":"addAnImageInPDF","reason":"invalid-feature","glean_timestamp":"1739858638474"}}
+{"timestamp":649,"category":"nimbus_events","name":"is_ready","extra":{"glean_timestamp":"1739858638474"}}
+{"timestamp":764,"category":"upgrade_dialog","name":"trigger_reason","extra":{"glean_timestamp":"1739858638589","value":"not-major"}}
+{"timestamp":3898,"category":"doh","name":"state_shutdown","extra":{"value":"null","glean_timestamp":"1739858641724"}}

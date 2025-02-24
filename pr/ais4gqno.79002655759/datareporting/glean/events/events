@@ -1,0 +1,13 @@
+{"timestamp":0,"category":"session_restore","name":"backup_can_be_loaded_session_file","extra":{"glean_timestamp":"1739858383558","can_load":"true","loadfail_reason":"N/A","path_key":"clean"}}
+{"timestamp":0,"category":"session_restore","name":"backup_can_be_loaded_session_file","extra":{"loadfail_reason":"N/A","can_load":"true","glean_timestamp":"1739858383558","path_key":"clean"}}
+{"timestamp":0,"category":"session_restore","name":"shutdown_success_session_startup","extra":{"shutdown_reason":"N/A","shutdown_ok":"false","glean_timestamp":"1739858383558"}}
+{"timestamp":260,"category":"webcompatreporting","name":"reason_dropdown","extra":{"setting":"required","glean_timestamp":"1739858383818"}}
+{"timestamp":400,"category":"jsonfile","name":"load_autofillprofiles","extra":{"glean_timestamp":"1739858383958","value":""}}
+{"timestamp":525,"category":"doh","name":"state_enabled","extra":{"glean_timestamp":"1739858384083","value":"null"}}
+{"timestamp":525,"category":"doh","name":"evaluate_v2_heuristics","extra":{"steeredProvider":"","captiveState":"not_captive","platform":"","filtering":"","glean_timestamp":"1739858384083","canaries":"","enterprise":"","networkID":"gliwA7sygklhPH40jViWEMbQ+HgvtO9Oc1Nenf/B9D0=","evaluateReason":"startup","value":"enable_doh"}}
+{"timestamp":568,"category":"network.dns","name":"trr_confirmation_context","extra":{"value":"2","networkID":"CRjuZGy1egQ3+mwuFm+6v43Lo8c=","glean_timestamp":"1739858384126","trigger":"pref-change","captivePortal":"1","attemptCount":"1","results":"+","time":"107.484700","contextReason":"pref-change"}}
+{"timestamp":583,"category":"normandy","name":"validation_failed_nimbus_experiment","extra":{"glean_timestamp":"1739858384141","value":"add-an-image-to-pdf-with-alt-text-rollout","feature":"addAnImageInPDF","reason":"invalid-feature"}}
+{"timestamp":583,"category":"nimbus_events","name":"validation_failed","extra":{"reason":"invalid-feature","experiment":"add-an-image-to-pdf-with-alt-text-rollout","glean_timestamp":"1739858384141","feature":"addAnImageInPDF"}}
+{"timestamp":583,"category":"nimbus_events","name":"is_ready","extra":{"glean_timestamp":"1739858384141"}}
+{"timestamp":683,"category":"upgrade_dialog","name":"trigger_reason","extra":{"value":"not-major","glean_timestamp":"1739858384241"}}
+{"timestamp":11344,"category":"doh","name":"state_shutdown","extra":{"value":"null","glean_timestamp":"1739858394902"}}

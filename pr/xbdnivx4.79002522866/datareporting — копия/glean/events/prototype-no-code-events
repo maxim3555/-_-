@@ -1,0 +1,4 @@
+{"timestamp":29786,"category":"browser.usage","name":"interaction","extra":{"source":"content-context","widget_id":"context-paste","glean_timestamp":"1738068895523","flow_id":"{3fa2b230-9a9c-4d79-bca7-e6c4da13afa2}"},"execution_counter":15}
+{"timestamp":35662,"category":"browser.usage","name":"interaction","extra":{"widget_id":"context-copy","source":"content-context","flow_id":"{3fa2b230-9a9c-4d79-bca7-e6c4da13afa2}","glean_timestamp":"1738068901399"},"execution_counter":15}
+{"timestamp":53143,"category":"browser.usage","name":"interaction","extra":{"widget_id":"stop-reload-button","glean_timestamp":"1738068918880","flow_id":"{3fa2b230-9a9c-4d79-bca7-e6c4da13afa2}","source":"nav-bar"},"execution_counter":15}
+{"timestamp":56623,"category":"browser.usage","name":"interaction","extra":{"glean_timestamp":"1738068922360","widget_id":"cmd-closeWindow","source":"tabs-bar","flow_id":"{3fa2b230-9a9c-4d79-bca7-e6c4da13afa2}"},"execution_counter":15}

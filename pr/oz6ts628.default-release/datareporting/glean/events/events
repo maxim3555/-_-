@@ -1,0 +1,14 @@
+{"timestamp":0,"category":"session_restore","name":"backup_can_be_loaded_session_file","extra":{"path_key":"clean","can_load":"true","loadfail_reason":"N/A","glean_timestamp":"1739344661517"}}
+{"timestamp":0,"category":"session_restore","name":"backup_can_be_loaded_session_file","extra":{"path_key":"clean","can_load":"true","loadfail_reason":"N/A","glean_timestamp":"1739344661517"}}
+{"timestamp":1,"category":"session_restore","name":"shutdown_success_session_startup","extra":{"glean_timestamp":"1739344661518","shutdown_ok":"false","shutdown_reason":"N/A"}}
+{"timestamp":266,"category":"webcompatreporting","name":"reason_dropdown","extra":{"setting":"required","glean_timestamp":"1739344661783"}}
+{"timestamp":377,"category":"jsonfile","name":"load_autofillprofiles","extra":{"value":"","glean_timestamp":"1739344661894"}}
+{"timestamp":578,"category":"doh","name":"state_disabled","extra":{"value":"null","glean_timestamp":"1739344662095"}}
+{"timestamp":578,"category":"doh","name":"evaluate_v2_heuristics","extra":{"filtering":"","enterprise":"","glean_timestamp":"1739344662095","canaries":"","value":"disable_doh","platform":"vpn","steeredProvider":"","evaluateReason":"startup","networkID":"avhJ5uFjbvKrQTAzm4SEalvyh0nPt6K0KftOWMU17NA=","captiveState":"unknown"}}
+{"timestamp":583,"category":"normandy","name":"validation_failed_nimbus_experiment","extra":{"value":"add-an-image-to-pdf-with-alt-text-rollout","glean_timestamp":"1739344662100","feature":"addAnImageInPDF","reason":"invalid-feature"}}
+{"timestamp":583,"category":"nimbus_events","name":"validation_failed","extra":{"experiment":"add-an-image-to-pdf-with-alt-text-rollout","glean_timestamp":"1739344662100","reason":"invalid-feature","feature":"addAnImageInPDF"}}
+{"timestamp":583,"category":"nimbus_events","name":"is_ready","extra":{"glean_timestamp":"1739344662100"}}
+{"timestamp":602,"category":"upgrade_dialog","name":"trigger_reason","extra":{"value":"not-major","glean_timestamp":"1739344662119"}}
+{"timestamp":15724,"category":"doh","name":"state_disabled","extra":{"value":"null","glean_timestamp":"1739344677241"}}
+{"timestamp":15724,"category":"doh","name":"evaluate_v2_heuristics","extra":{"steeredProvider":"","filtering":"","networkID":"avhJ5uFjbvKrQTAzm4SEalvyh0nPt6K0KftOWMU17NA=","platform":"vpn","evaluateReason":"throttled","value":"disable_doh","canaries":"","glean_timestamp":"1739344677242","captiveState":"not_captive","enterprise":""}}
+{"timestamp":265181,"category":"doh","name":"state_shutdown","extra":{"value":"null","glean_timestamp":"1739344926699"}}

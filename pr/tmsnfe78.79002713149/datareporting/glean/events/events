@@ -1,0 +1,13 @@
+{"timestamp":0,"category":"session_restore","name":"backup_can_be_loaded_session_file","extra":{"can_load":"true","loadfail_reason":"N/A","glean_timestamp":"1739858361584","path_key":"clean"}}
+{"timestamp":0,"category":"session_restore","name":"backup_can_be_loaded_session_file","extra":{"can_load":"true","glean_timestamp":"1739858361584","path_key":"clean","loadfail_reason":"N/A"}}
+{"timestamp":0,"category":"session_restore","name":"shutdown_success_session_startup","extra":{"glean_timestamp":"1739858361584","shutdown_reason":"N/A","shutdown_ok":"false"}}
+{"timestamp":268,"category":"webcompatreporting","name":"reason_dropdown","extra":{"setting":"required","glean_timestamp":"1739858361853"}}
+{"timestamp":394,"category":"jsonfile","name":"load_autofillprofiles","extra":{"glean_timestamp":"1739858361978","value":""}}
+{"timestamp":481,"category":"doh","name":"state_enabled","extra":{"glean_timestamp":"1739858362065","value":"null"}}
+{"timestamp":481,"category":"doh","name":"evaluate_v2_heuristics","extra":{"enterprise":"","canaries":"","value":"enable_doh","captiveState":"not_captive","networkID":"0T/UoxtvZvVz+NkTRMm1kfTtwMeS91zaXXbRh4qHJGY=","evaluateReason":"startup","glean_timestamp":"1739858362065","platform":"","filtering":"","steeredProvider":""}}
+{"timestamp":562,"category":"network.dns","name":"trr_confirmation_context","extra":{"networkID":"/OcTG+yXtgOIstUW6r1/w5C6vB8=","trigger":"pref-change","contextReason":"pref-change","results":"+","attemptCount":"1","captivePortal":"1","time":"104.968600","value":"2","glean_timestamp":"1739858362146"}}
+{"timestamp":586,"category":"normandy","name":"validation_failed_nimbus_experiment","extra":{"value":"add-an-image-to-pdf-with-alt-text-rollout","reason":"invalid-feature","glean_timestamp":"1739858362170","feature":"addAnImageInPDF"}}
+{"timestamp":586,"category":"nimbus_events","name":"validation_failed","extra":{"feature":"addAnImageInPDF","reason":"invalid-feature","experiment":"add-an-image-to-pdf-with-alt-text-rollout","glean_timestamp":"1739858362170"}}
+{"timestamp":586,"category":"nimbus_events","name":"is_ready","extra":{"glean_timestamp":"1739858362170"}}
+{"timestamp":725,"category":"upgrade_dialog","name":"trigger_reason","extra":{"value":"not-major","glean_timestamp":"1739858362310"}}
+{"timestamp":10895,"category":"doh","name":"state_shutdown","extra":{"value":"null","glean_timestamp":"1739858372479"}}

@@ -1,0 +1,15 @@
+{"timestamp":0,"category":"session_restore","name":"backup_can_be_loaded_session_file","extra":{"loadfail_reason":"N/A","path_key":"clean","can_load":"true","glean_timestamp":"1738068865737"}}
+{"timestamp":0,"category":"session_restore","name":"backup_can_be_loaded_session_file","extra":{"loadfail_reason":"N/A","path_key":"clean","glean_timestamp":"1738068865737","can_load":"true"}}
+{"timestamp":0,"category":"session_restore","name":"shutdown_success_session_startup","extra":{"shutdown_ok":"false","glean_timestamp":"1738068865737","shutdown_reason":"N/A"}}
+{"timestamp":0,"category":"media.playback","name":"first_frame_loaded","extra":{"glean_timestamp":"1738068866197","is_hardware_decoding":"true","video_codec":"video/avc","first_frame_loaded_time":"114","total_waiting_data_time":"0","resolution":"V,0<h<=240","playback_type":"Non-MSE playback","metadata_loaded_time":"0","buffering_time":"0"}}
+{"timestamp":795,"category":"webcompatreporting","name":"reason_dropdown","extra":{"setting":"required","glean_timestamp":"1738068866533"}}
+{"timestamp":1079,"category":"doh","name":"state_enabled","extra":{"glean_timestamp":"1738068866816","value":"null"}}
+{"timestamp":1079,"category":"doh","name":"evaluate_v2_heuristics","extra":{"glean_timestamp":"1738068866816","evaluateReason":"startup","filtering":"","enterprise":"","value":"enable_doh","steeredProvider":"","networkID":"qT8uArl8w46D29/dfji/S/1RrABatCZtBb/8EMzAgk4=","canaries":"","captiveState":"not_captive","platform":""}}
+{"timestamp":1085,"category":"normandy","name":"unenroll_failed_nimbus_experiment","extra":{"glean_timestamp":"1738068866822","value":"unified-api-for-spocs-and-top-sites-controlled-rollout-for-release-133","reason":"already-unenrolled"}}
+{"timestamp":1085,"category":"nimbus_events","name":"unenroll_failed","extra":{"glean_timestamp":"1738068866822","reason":"already-unenrolled","experiment":"unified-api-for-spocs-and-top-sites-controlled-rollout-for-release-133"}}
+{"timestamp":1121,"category":"jsonfile","name":"load_logins","extra":{"value":"","glean_timestamp":"1738068866858"}}
+{"timestamp":1168,"category":"upgrade_dialog","name":"trigger_reason","extra":{"glean_timestamp":"1738068866905","value":"disabled"}}
+{"timestamp":1182,"category":"addons_manager","name":"disable_extension","extra":{"blocklist_state":"0","value":"screenshots@mozilla.org","source":"system-addon","glean_timestamp":"1738068866919"}}
+{"timestamp":1182,"category":"addons_manager","name":"manage","extra":{"addon_type":"extension","glean_timestamp":"1738068866919","blocklist_state":"0","source":"system-addon","method":"disable","addon_id":"screenshots@mozilla.org"}}
+{"timestamp":1493,"category":"network.dns","name":"trr_confirmation_context","extra":{"captivePortal":"1","contextReason":"pref-change","results":"+","attemptCount":"1","value":"2","trigger":"pref-change","time":"414.543100","glean_timestamp":"1738068867231","networkID":"fa4bzPl/sJb59+15LDmFvYCWZFs="}}
+{"timestamp":56956,"category":"doh","name":"state_shutdown","extra":{"value":"null","glean_timestamp":"1738068922693"}}

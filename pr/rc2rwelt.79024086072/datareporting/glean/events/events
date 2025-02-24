@@ -1,0 +1,17 @@
+{"timestamp":0,"category":"session_restore","name":"backup_can_be_loaded_session_file","extra":{"glean_timestamp":"1739788091122","can_load":"true","path_key":"clean","loadfail_reason":"N/A"}}
+{"timestamp":0,"category":"session_restore","name":"backup_can_be_loaded_session_file","extra":{"can_load":"true","glean_timestamp":"1739788091122","path_key":"clean","loadfail_reason":"N/A"}}
+{"timestamp":0,"category":"session_restore","name":"shutdown_success_session_startup","extra":{"glean_timestamp":"1739788091123","shutdown_reason":"N/A","shutdown_ok":"false"}}
+{"timestamp":249,"category":"webcompatreporting","name":"reason_dropdown","extra":{"glean_timestamp":"1739788091372","setting":"required"}}
+{"timestamp":386,"category":"jsonfile","name":"load_autofillprofiles","extra":{"glean_timestamp":"1739788091508","value":""}}
+{"timestamp":601,"category":"normandy","name":"validation_failed_nimbus_experiment","extra":{"value":"add-an-image-to-pdf-with-alt-text-rollout","feature":"addAnImageInPDF","glean_timestamp":"1739788091724","reason":"invalid-feature"}}
+{"timestamp":601,"category":"nimbus_events","name":"validation_failed","extra":{"experiment":"add-an-image-to-pdf-with-alt-text-rollout","glean_timestamp":"1739788091724","reason":"invalid-feature","feature":"addAnImageInPDF"}}
+{"timestamp":602,"category":"nimbus_events","name":"is_ready","extra":{"glean_timestamp":"1739788091724"}}
+{"timestamp":617,"category":"upgrade_dialog","name":"trigger_reason","extra":{"glean_timestamp":"1739788091739","value":"not-major"}}
+{"timestamp":1029,"category":"doh","name":"state_enabled","extra":{"value":"null","glean_timestamp":"1739788092151"}}
+{"timestamp":1029,"category":"doh","name":"evaluate_v2_heuristics","extra":{"enterprise":"","networkID":"2QIkWFqecu43leTmy7zS34DbJRwtuVBx0RkF2/SgKJg=","evaluateReason":"startup","platform":"","value":"enable_doh","canaries":"","filtering":"","glean_timestamp":"1739788092151","captiveState":"not_captive","steeredProvider":""}}
+{"timestamp":3555,"category":"network.dns","name":"trr_confirmation_context","extra":{"trigger":"pref-change","networkID":"wVVjD5ikHUPJ2S2uVwvVkvlbYWk=","contextReason":"pref-change","captivePortal":"1","attemptCount":"1","value":"2","time":"2525.658500","glean_timestamp":"1739788094677","results":"+"}}
+{"timestamp":0,"category":"media","name":"error","extra":{"error_name":"NS_ERROR_DOM_MEDIA_NOT_SUPPORTED_ERR","error_type":"SrcNotSupportedErr","glean_timestamp":"1739788116823"}}
+{"timestamp":21,"category":"media","name":"error","extra":{"error_name":"NS_ERROR_DOM_MEDIA_NOT_SUPPORTED_ERR","glean_timestamp":"1739788116823","error_type":"SrcNotSupportedErr"}}
+{"timestamp":0,"category":"media.playback","name":"first_frame_loaded","extra":{"resolution":"V,0<h<=240","total_waiting_data_time":"0","buffering_time":"0","first_frame_loaded_time":"4","playback_type":"Non-MSE playback","metadata_loaded_time":"0","video_codec":"video/vp9","glean_timestamp":"1739788116824"}}
+{"timestamp":12951,"category":"media.playback","name":"first_frame_loaded","extra":{"is_hardware_decoding":"true","playback_type":"Non-MSE playback","glean_timestamp":"1739788116824","metadata_loaded_time":"144","first_frame_loaded_time":"183","total_waiting_data_time":"0","video_codec":"video/avc","resolution":"AV,1080<h<=2160","buffering_time":"0"}}
+{"timestamp":25726,"category":"doh","name":"state_shutdown","extra":{"value":"null","glean_timestamp":"1739788116849"}}
