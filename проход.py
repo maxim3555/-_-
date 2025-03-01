@@ -5,10 +5,6 @@ import time
 import threading
 import openpyxl
 import requests
-from selenium.webdriver.firefox.service import Service
-
-from webdriver_manager.firefox import GeckoDriverManager
-
 
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
@@ -261,10 +257,8 @@ def upload_process(profile_path):
         # options.set_preference("platform.override", "android")
         options.add_argument("--headless")  # Запуск в безголовом режиме
         options.profile = profile_path
-        service = Service(GeckoDriverManager().install())
 
-        #driver = webdriver.Firefox(service=service)
-        driver = webdriver.Firefox(service=service,options=options)
+        driver = webdriver.Firefox(options=options)
 
 
         # driver.maximize_window()
