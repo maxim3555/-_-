@@ -12,7 +12,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import TimeoutException
 link_schet=0
-schet = 4
+schet = 1
 schet1 = 1
 book = openpyxl.open("te-g.xlsx")
 list1 = book.active
@@ -255,7 +255,7 @@ def upload_process(profile_path):
         options.set_preference("general.useragent.override", random_user_agent)  # Устанавливаем случайный User-Agent
         options.set_preference("dom.webdriver.enabled", False)
         # options.set_preference("platform.override", "android")
-        options.add_argument("--headless")  # Запуск в безголовом режиме
+        #options.add_argument("--headless")  # Запуск в безголовом режиме
         options.profile = profile_path
 
         driver = webdriver.Firefox(options=options)
