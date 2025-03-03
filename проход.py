@@ -12,7 +12,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import TimeoutException
 link_schet=0
-schet = 1
+schet = 4
 schet1 = 1
 book = openpyxl.open("te-g.xlsx")
 list1 = book.active
@@ -251,7 +251,7 @@ def upload_process(profile_path):
         # Опции для ускорения загрузки
         options.set_preference("permissions.default.image", 2)  # Отключение загрузки изображений
         # options.set_preference("javascript.enabled", False)  # Отключение JavaScript (если это возможно)
-        # options.set_preference("network.http.use-cache", True)  # Использовать кэш
+        options.set_preference("network.http.use-cache", True)  # Использовать кэш
         options.set_preference("general.useragent.override", random_user_agent)  # Устанавливаем случайный User-Agent
         options.set_preference("dom.webdriver.enabled", False)
         # options.set_preference("platform.override", "android")
