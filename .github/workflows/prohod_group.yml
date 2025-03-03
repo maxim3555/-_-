@@ -13,19 +13,20 @@ jobs:
 
             - name: Install geckodriver
               run: |
-                # Удаляем старый geckodriver, если он есть
-                sudo rm /usr/bin/geckodriver || true
-
-                # Скачиваем и устанавливаем geckodriver 0.36.0
+                sudo apt-get update
+                sudo apt-get install -y firefox
+                sudo apt-get install -y wget
                 wget https://github.com/mozilla/geckodriver/releases/download/v0.36.0/geckodriver-v0.36.0-linux64.tar.gz
                 tar -xzf geckodriver-v0.36.0-linux64.tar.gz
                 sudo mv geckodriver /usr/bin/
                 sudo chmod +x /usr/bin/geckodriver
 
             - name: Install requirements
-              run: pip install -r requirements.txt
+              run: |
+                pip install -r requirements.txt || { echo 'Ошибка при установке зависимостей'; exit 1; }
 
             - name: Run app
               run: |
                 ulimit -v 4000000  # Устанавливаем лимит виртуальной памяти (можно отрегулировать по необходимости)
                 python проход.py || { echo 'Программа завершилась с ошибкой'; exit 1; }
+
