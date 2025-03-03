@@ -1,14 +1,49 @@
 name: bot
+
 on:
+
     push:
 
+
 jobs:
+
     BOT:
+
         runs-on: ubuntu-latest
+
         steps:
-            - name: code
+
+            - name: Checkout code
+
               uses: actions/checkout@v4
-            - name: install requirements
+
+
+
+            - name: Install geckodriver
+
+              run: |
+
+                # Удаляем старый geckodriver, если он есть
+
+                sudo rm /usr/bin/geckodriver || true
+
+                # Скачиваем и устанавливаем geckodriver 0.36.0
+
+                wget https://github.com/mozilla/geckodriver/releases/download/v0.36.0/geckodriver-v0.36.0-linux64.tar.gz
+
+                tar -xzf geckodriver-v0.36.0-linux64.tar.gz
+
+                sudo mv geckodriver /usr/bin/
+
+                sudo chmod +x /usr/bin/geckodriver
+
+
+            - name: Install requirements
+
               run: pip install -r requirements.txt
-            - name: run app
+
+
+
+            - name: Run app
+
               run: python проход.py
