@@ -244,7 +244,7 @@ def upload_process(profile_path):
         from selenium import webdriver
         from selenium.webdriver.firefox.options import Options
         from fake_useragent import UserAgent
-
+        from selenium.webdriver.firefox.service import Service
         ua = UserAgent()
         random_user_agent = ua.random
         options = Options()
@@ -259,7 +259,13 @@ def upload_process(profile_path):
         options.add_argument("--headless")  # Запуск в безголовом режиме
         options.profile = profile_path
 
-        driver = webdriver.Firefox(options=options)
+        # Указываем путь к geckodriver (если не в PATH)
+        geckodriver_path = "geckodriver"  # Путь к geckodriver
+
+        service = Service(geckodriver_path)
+
+        # Создаем экземпляр драйвера
+        driver = webdriver.Firefox(service=service, options=options)
 
 
         # driver.maximize_window()
