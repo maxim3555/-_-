@@ -228,7 +228,8 @@ def regictracia(driver):
 #         driver.execute_script("arguments[0].click();", element)
 
         time.sleep(35)
-
+        driver.save_screenshot('111.png')
+        magnit_kupon('111.png')
 
 
 
