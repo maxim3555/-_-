@@ -12,7 +12,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import TimeoutException
 link_schet=0
-schet = 4
+schet = 3
 schet1 = 1
 book = openpyxl.open("te-g.xlsx")
 list1 = book.active
