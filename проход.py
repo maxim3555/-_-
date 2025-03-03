@@ -286,7 +286,7 @@ def upload_process(profile_path):
 while True:
 
     threads = []
-    num_threads = 20 # Количество потоков, которые вы хотите запустить одновременно
+    num_threads = 0 # Количество потоков, которые вы хотите запустить одновременно
 
 
 
@@ -309,7 +309,7 @@ while True:
                     if not t.is_alive():  # Если поток завершен
                         threads.remove(t)  # Удаляем его из списка текущих потоков
                         print(f'удалили поток {t}')
-                    time.sleep(1)  # Подождите немного
+                    time.sleep(200)  # Подождите немного
 
             schet += 1
         else:
