@@ -309,7 +309,7 @@ while True:
                     if not t.is_alive():  # Если поток завершен
                         threads.remove(t)  # Удаляем его из списка текущих потоков
                         print(f'удалили поток {t}')
-                    time.sleep(200)  # Подождите немного
+                    time.sleep(1)  # Подождите немного
 
             schet += 1
         else:
